@@ -14,10 +14,46 @@ body {
   text-align: center;
   padding-top: 30px;
 }
-.header p {
+a {
   color: aquamarine;
-  font-size: 16px;
-  text-decoration: underline;
+}
+.header p {
   text-align: center;
   padding-top: 50px;
+  padding-bottom: 10px;
+}
+.video {
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  padding-top: 20px;
+}
+.motive {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 21px;
+  margin: 30px auto;
+}
+figure {
+  text-align: center;
+}
+.phone {
+  margin-top: 50px;
+}
+.link {
+  text-align: center;
+  padding-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+  text-align: right;
+  color: gray;
+  font-size: 22px;
+  padding: 15px;
 }
